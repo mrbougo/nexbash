@@ -1,0 +1,13 @@
+Mr. Bougo's Nexuiz-Bash interaction system.
+
+First of all, be aware that scripts are only triggered by the user. That
+means you can't use it to make aimbots or whatever silly things.
+It can't be used to trigger commands with events.
+
+This system rather extends the power of the DarkPlaces console with
+bash scripting.
+
+To see how nexbash scripts work, have a look at the "scripts" directory.
+
+To use the system, you will need to configure .nexbash/nexbash.sh . The
+instructions on how to run it are stored there too.
